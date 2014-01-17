@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+   
+    <item
+        android:id="@+id/backId"
+        android:icon="@drawable/menu_return"
+        android:title="@string/back" />
+    
+    <item
+        android:id="@+id/screenId"
+        android:icon="@drawable/menu_flashlight"
+        android:title="@string/screen" />
+    
+    <item 
+        android:id="@+id/aboutId"
+        android:icon="@drawable/menu_about"
+        android:title="@string/about_us" />
+    
+    <item 
+        android:id="@+id/exitId"
+        android:icon="@drawable/menu_exit"
+        android:title="@string/exit"/>
+
+</menu>
